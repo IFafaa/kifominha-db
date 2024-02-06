@@ -1,0 +1,96 @@
+[{
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae01"
+    },
+    "name": "Pizza"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae02"
+    },
+    "name": "Hambúrguer"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae03"
+    },
+    "name": "Sushi"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae04"
+    },
+    "name": "Massas"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae05"
+    },
+    "name": "Comida Chinesa"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae06"
+    },
+    "name": "Comida Mexicana"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae07"
+    },
+    "name": "Comida Indiana"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae08"
+    },
+    "name": "Saladas"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae09"
+    },
+    "name": "Sobremesas"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae0a"
+    },
+    "name": "Comida Vegetariana"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae0b"
+    },
+    "name": "Churrasco"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae0c"
+    },
+    "name": "Sanduíches"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae0d"
+    },
+    "name": "Comida Árabe"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae0e"
+    },
+    "name": "Comida Tailandesa"
+  },
+  {
+    "_id": {
+      "$oid": "65beb2a75455430e4b74ae0f"
+    },
+    "name": "Frutos do Mar"
+  },
+  {
+    "_id": {
+      "$oid": "65c1b6b5c99a67c47af73777"
+    },
+    "name": "Comida Brasileira"
+  }]

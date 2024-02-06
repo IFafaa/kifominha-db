@@ -1,0 +1,540 @@
+[{
+    "_id": {
+      "$oid": "65c1ac6a8a1eea5b90bcbc7d"
+    },
+    "restaurant_id": "65c1abfc8a1eea5b90bcbc7c",
+    "name": "Mega Stacker Cheddar 3.0",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707191401353_imagem_2024-02-06_004923017.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=H1zTOgGbcv92u8%2FWSGolm9009eTYBDgUuyTk2JuhV0NIGFC%2BDdirB1UktJee%2BfGVJ64%2BmEZBfQAaINQBGPhchHVI4RrloWn7hwBBLJTzdwtFe3HDN%2Fr7YYhQomUbZS1oSLw0oYDTJUz4m97cWPi8%2BX%2F0P5l4deLcarh28vnn7QO5l1gjW0HswlKftlBkSrcaHRBcQKCPozjiqvUdG9YKNYx066Ze0kO%2B2oczSX8OY%2FJTVYAD7VNacPshDLcwLwVa0VNnNvEBd5%2BmSHQ%2BAikBk4uYHVgSDsaDDiCyCwwe5BEuAKmylIXWZEm4BK2KRDeRmbMuX8jSOjby5SeAdNGPdA%3D%3D",
+    "description": "O Mega Stacker Cheddar está de volta! Um verdadeiro exagero de cheddar. Só quem é louco por queijo tem coragem de encarar esse gigante. E você, tem? #PartiuBK",
+    "price": "25.9",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1ace08a1eea5b90bcbc7f"
+    },
+    "restaurant_id": "65c1abfc8a1eea5b90bcbc7c",
+    "name": "Cheddar Duplo",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707191519304_imagem_2024-02-06_005135544.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=QFsdw51ZOJJL2h4oEgzbt9etya1%2F741VNkNVu8OWK%2B2Mlt1arIezdhTijXDU4eXn5abcWqYkyscjk%2FcCiAPmDvijFoG5KYJCvL3zy5YTUu4uNHGK%2BcumrmSQiPx8tJ7WXpUcuZV39B0zeRkLTr9Fvtc9bSBYqLWvS2wd5d7elk%2ByZSL7E4uTXFHc%2FkHc25XsBS%2B7onllJvPwu6rdVO1s28oBd%2BpaSsS6F%2FzixjHFAgfPcSA5g6e%2FIaK6AwoTlycexoMCXEyVQOFvRu6B7%2BxXJxadiaNZS%2Bqa8AUg9x%2FvGVTeQS%2FmF6QNYOVpbYU3%2BeY%2BoDggX3XJhGTkhWEMAyjMkQ%3D%3D",
+    "description": "Vocês pediram e ele voltou! Chegou o Novo Cheddar Duplo! Pão fofinho com gergelim, 2 hambúrgueres de carne 100% bovina grelhados no fogo como churrasco, o novo molho cremoso sabor queijo cheddar e toda a crocância da cebola crispy. 100% livre de corantes, conservantes e aromatizantes artificiais.",
+    "price": "16.9",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1ad218a1eea5b90bcbc80"
+    },
+    "restaurant_id": "65c1abfc8a1eea5b90bcbc7c",
+    "name": "Whopper® de Plantas",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707191584803_imagem_2024-02-06_005254807.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=CmLjMXTbAWr8uokHCFvLbE3kpWttRD3s0Pvw5M%2FVZz2kPhs7nE%2BLdtAGpCYR4PoqTEZQ8LicjFw2A4H4oVT2osDpNzFy1YqxBE5%2Fd8%2BATKNK8z85r4itbkZiItb2KKtDbXUNtdsaEfPyiExlHVDPSY%2BqMT4cV9ObxS%2BifyelhvtaUYmFpTmW2OrMmeI4kDVoZYxhP7bJzI6SLs4WWWY9Y5gRG5NpmJTqDmgEe7za8k9w3xshFuPPs2CIaX%2BqsrHS%2FG3RqQdtSeDWx5WCN9mpCaxDgarx%2Fd9gtfvo6c%2F0vThATXSbT7%2FLZrR5T4Sz8uJBGzwuNuXvMJUzFBzk0v0EYA%3D%3D",
+    "description": "100% Whopper®, 0% carne. Pão com gergelim, maionese, alface, tomate, cebola, ketchup, picles, cheddar fatiado e hambúrguer à base de proteína vegetal.",
+    "price": "18.9",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b3e78a1eea5b90bcbc83"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "Big Mac",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193318146_imagem_2024-02-06_012137534.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=lLG8moVkl1cg%2F5amxDtIYT%2FBKqCePl5DsuV%2FDMnST5nJWZHSV6RqcLK%2B9vOQa9U8VyP6N822w2BPIPi7%2FK08WJwDoU4xj1OHvrrKX8%2FzZSdRoR5U%2FhfAkRihr9y1DgWVq6%2FvC%2Bpa4z%2BZBnxz2ZEZtWdDAcIJFu0NSCEjhG%2FBRhcg3ZGF9vnPZ28zv6yCTW3I3o5vILa0PKUXKZ7jKKeHaaqFpBPlblDBDvCRGR7PpeRUiUuZcQBL5huinh8movL0rJR27N%2Fi1s6YQMpFpIUJC%2BFpP4rr0vcrinO1XO8F4p8ZhWTUFRZyDkexWGbx%2F6mNXWTjCunNM1L4xfHZw9osWA%3D%3D",
+    "description": "Dois hambúrgueres (100% carne bovina), alface americana, queijo sabor cheddar, molho especial, cebola, picles e pão com gergelim.\r\n\r\n",
+    "price": "15",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b4058a1eea5b90bcbc84"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "Cheddar McMelt",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193348809_imagem_2024-02-06_012223158.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=kW1wFT1b%2FtCoLJHGX%2F5hVV29dMeIsi9rvm6q%2BEQlydk0VZ%2Bx0%2BJoXJJZh3EXLeSDh9sVFwj63oWaAeI8QApILN6e%2FeBpcHoTec%2FTy0RLneAMaTtIx3xbYIf0bnTFgaFuLss03V6zjfl66R9e7IvfZbc1dkiEqAXgL1lFMb%2BWnWxyv9XUkY7bqT2V8E5yK3Drr8u0w2MufYAHceoF6aMnEhWgvsEMFwOW3ohUTOWLMgelAztnZ48Pi%2BubRq2qJD9wzK0EzX3GigiCM8LknB9Xny7NZPicvmxspUhAMklX3p3uTHlZlCp7FSSGEmwd7QogqtEep8IuRDTFmqUvYPCWmg%3D%3D",
+    "description": "Um hambúrguer (100% carne bovina), molho lácteo cremoso sabor cheddar, cebola ao molho shoyu e pão escuro com gergelim.\r\n\r\n",
+    "price": "16",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b4278a1eea5b90bcbc85"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "Big Mac Duplo",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193382952_imagem_2024-02-06_012247274.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=lyW1QomMXJhdPWXlSc4CUKh9HBr%2F%2F%2FNZDti5JspqquxYpp3t%2FPZ0TyBU6nCUEdE%2BC1Yc0nbbCC2Csces%2Bk69h426wsRKSS5jVSYgyzElCxZksXEA8p02sV9JPoPVdyJQMz6evEjA4RKAZ7NBN6uSEk9fWZxxrGEJLuam61IyiJ%2FRzDhpvJuNe0XLsqqwwwWzba2at2bhJpV1a%2BPx8i9kSurcD9OmvGdjB%2FlWyxzaLKRLUktBEHWOepsFpDLscIWLRW90zTKD7Ph6s%2BifqHTCMLfZaY0MEsWvpRjOVE%2BaoWqkaW7HgVjCIQm2dKmNKNgTLVF5mr0tyzU2vjEVF4pCsQ%3D%3D",
+    "description": "Quatro hambúrgueres (100% carne bovina), alface americana, queijo sabor cheddar, molho especial, cebola, picles e pão com gergelim.\r\n\r\n",
+    "price": "19",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b4408a1eea5b90bcbc86"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "Duplo Quarterão",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193407096_imagem_2024-02-06_012313308.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=XWIP4QlfkY57G4MGhiEOUhv9Ue%2FLiEwNQ7wCvfwWxiGqJnN1EEzYrAbhLZElUvpknky0Vn40gGeuxzREtqSOelzmLuXIe49p11dWlYOSclUpyH4b4CNRPw%2FAQGl%2B%2FJS%2Fv6ceb8%2FmE1U8Du1HvV6avK%2BPuTLo0GFbyNoszH%2FyPARcmGe6VO76WhSFkDCb8zKKHYf5vI9uc9FUdLMbvJeqtGVufrbQWbPd1H9rQhL8Egl52rbuL9FCeaE3S83X6GjohsZYQmSXoEvgM61JC8YQzJyYhUY7eXf9EKvixkIHFC4C3tmnSOCLd7qLru%2FxS8fDPbDAtGnEcXYNBVjxKv%2BUPA%3D%3D",
+    "description": "Dois hambúrgueres (100% carne bovina), mostarda, ketchup, cebola, queijo sabor cheddar e pão com gergelim.\r\n\r\n",
+    "price": "14",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b46b8a1eea5b90bcbc87"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "Duplo Cheddar McMelt",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193450166_imagem_2024-02-06_012402348.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=I1BQ3ceBnCFazAiVq1fbiSQdcrUJ5fKcj8fiZsQOjv1NceSvuX7dMveqQO3kAby%2BdenJQiUfhnQuy5X4Rw2E6G09lHdMAjIHOo7NmDDTN8PjA0zXXVGkV48cSlDolLXIk8qy3op6fGbyUHu4L%2FEZps%2Fi6CxiWXqvntO3CvxANBskmhA9ALpyYfqgXh8q0zsGlc9hVSWmzP5LNquxb1TPDY%2Bd7PderbdETSprvGWzS67iyOqyhU%2FG%2B%2F6%2BgBd8jkeBlYPAar%2BGQIZ19EwW1xZ%2Bl%2BG8hvIRRp3eRA%2FDcQgElyDzyBNR2e5GoxvVwtNbJDD8H6y%2BuQJgLAz6d%2F3LKt%2FWNw%3D%3D",
+    "description": "Dois hambúrgueres (100% carne bovina), molho lácteo cremoso sabor cheddar, cebola ao molho shoyu e pão escuro com gergelim.\r\n\r\n",
+    "price": "17",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b47e8a1eea5b90bcbc88"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "Big Mac Bacon",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193469312_imagem_2024-02-06_012424231.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=Ze5AGfTvXO0LhJf0tmM%2BSQ8bOrL0AfQI4ts7BDtpysd4Qpi7kaj9l1QqbXoFJnosrso1vg3RUJKqyUb%2BGbR7ioJX%2FYkKaLRklX9cVRBKyHkL8gWpreavMzeFrbWEb81XPdhldjdzYycFMwrjMy%2FE9VRVPa2FxBCniIcFQ6vj5IB5t2Vsl7vm0XFlkTg5JYX37ml7gvzvdw%2FHSoCTiE0JVFh6Ty0f1hqEH6I4JxjLmeMNmoOcrf4y3vAqZPAOfjvt0dxwDGOOyKTvmR3nKAQImetAtd2GzbCXICVS6GuVgM16QSKsRXCwGSoz31dPho%2Fy4voz6%2FpciYOcbsxyK%2FmkyQ%3D%3D",
+    "description": "Dois hambúrgueres (100% carne bovina), alface americana, queijo sabor cheddar, molho especial, cebola, picles, bacon e pão com gergelim.\r\n\r\n",
+    "price": "19",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b4a08a1eea5b90bcbc89"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "McFlurry Ovomaltine Rocks Ao Leite Chocolate",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193503597_imagem_2024-02-06_012456448.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=XCZuWNmNDBAjc3211XZ77s10PqZxKfUM3jP9VQkcOuubjyN3mkH5nKYFaCwBI3pngycs8mmB1wumamW0DkrM5228oWIlQgboc%2BU8Piy0%2Fs50urfuG5j%2F0tQq6Wcmp7liWJEeaUDVdvXHH2IGeGFIk4yQpR3p0djz5HBXdKAlr%2FaDphmEllsjFTEvFdVVmqV5sLLgRIaMomW1IlbVJj%2BLE3ub%2FZnQf7Edf35YC1p%2FaES%2Bd0603epBIKJQgs9A9p%2FdwPwVmQ4DWhtJtFkP6GSTMkZgmsEs0V2KUDcjXq5vZlgbPPupwk2wLjIlBrL9hCxRE%2FlMQPUUiJl55OugvrWuCw%3D%3D",
+    "description": "Para sua #FomeGeladinhadeMéqui nosso delicioso McFlurry Ovomaltine, com bebida láctea sabor baunilha, flocos de ovomaltine e cobertura sabor chocolate.\r\n\r\n",
+    "price": "17",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae09",
+      "name": "Sobremesas"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b4c28a1eea5b90bcbc8a"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "Casquinha Mista",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193537937_imagem_2024-02-06_012531399.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=PQP9EIV1FwahWn6KbzEWRU5rVMXEIBPOOprh9j0CQGJhqya2v3T2Z5%2FeY0fs%2FqRH5nPzv730ipqv%2B2%2FBX7F71SmNGl3vzDLnbDoDPyWozRX3tk9eSvukdOB%2B4hz%2FyGYYi%2BdKrnzNA87er%2B6KV6I0Bjp33hMYzoWjqAUUwt1MqbNylFJG0MwfDadLBQ3g7OP6Je6Xacopgky7PKUoFGNhg%2BCcdi2i8DTMpAz5%2Br9NC6WAlOqaatP%2B8VtYzkzdJCXTmbYUxQeCZ2TLyPyAqSlvG8%2BQZNkzFhs5A5oVJGK7sqnNHMaQplT1swDCNkk4YdPN02Mz5hU%2BjpNSSl1M%2Fn2Uxg%3D%3D",
+    "description": "A sobremesa que o Brasil todo adora. Uma casquinha supercrocante, com bebida láctea mista (sabor baunilha e chocolate) que vai bem a qualquer hora.\r\n\r\n",
+    "price": "5",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae09",
+      "name": "Sobremesas"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b4ed8a1eea5b90bcbc8b"
+    },
+    "restaurant_id": "65c1b3748a1eea5b90bcbc82",
+    "name": "Duplo Burger Bacon",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193580689_imagem_2024-02-06_012613179.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=au2pdEtLxDD%2BuV34wn2IfpHfXilfu%2B%2B3NN5uUNLii3BzukXbjlzKSXqox%2BdoFxEz%2FXde7Cz7F8jEcpW%2BN2SlQZfCEnr48WsOd0urpCk%2BV16eXr4ZmqKwmyW36tBGyxS5EeV6ZDsqDUpaTTsxpkcqtdZ6lmXlxfaQBVvlfny2zK%2FdH18Nfv%2BubCthlGfVGcwVClk7moWlIN19%2BOlcIo2xaLninFjNpJ5rpRZHztrqCI1l7r8xPs%2FWvM1MGmEhOgcWnpPPUbEJeU8hfwLp56ghgYAy2zulnR6kL1gzZKzAXZBBXx9QcoM8LlEyVC7NAnDavvJJSl4KcR84RzbX3R9n0g%3D%3D",
+    "description": "Dois hambúrgueres (100% carne bovina), queijo sabor cheddar, cebola, fatias de bacon, ketchup, mostarda e pão com gergelim.\r\n\r\n",
+    "price": "17",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b7898a1eea5b90bcbc8d"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Churrasquito Para 2",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194247928_imagem_2024-02-06_013712666.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=nZXY39uZy2lVbiYmtWwM4BEYGZW026PI%2BOcJckowIiNPTjPrhvBQHNiytxBhatAlUvpbSXkno6OVCDuhF%2Bruf6WvcfIq9PUPpKuTf0qmGaPfEf2HTMpyiN9Qu%2B4cFzx7GJA0MbbG8AI4EjVuZPovyX3TnK1gJ9zMY2aUP0dcQTvHRur38o6V9taYJXMXGwwyNCMiiZWVVaPS%2FrS4o4zKMz74ip4%2Fsq1bepbpUePxJqO8excQp8cLyCZUrQVOT9vZeXzR34y4FVLzS1FcSyXITwZLBxNhqCtsOQQndOo15looO7%2FKbLHjgIrgyXWRBLAomOk5LxMPJKdwiWRak7Rdtg%3D%3D",
+    "description": "2 bifes (Aprox. 85g cada - in natura), 2 porções de 1/2 sobrecoxa(Aprox. 97g cada - in natura) e 2 linguiças suínas(Aprox. 60g cada - in natura).Arroz, farofa, feijão e fritas.",
+    "price": "65",
+    "serve": "2",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae0b",
+      "name": "Churrasco"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b7b08a1eea5b90bcbc8e"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Tradicional Frango Crocante para 2",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194286946_imagem_2024-02-06_013754234.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=NKxYh6dzOaeKER3vkhrwsjghn1RMvPXOAFWg8pD1HESTdZv01VXIoIInCk9dpjnvSLnF1D%2FIk49PSTKCMqGyY0K4B7h99RShgmECGCAaOnDvgiQDtOiHoLF%2F5%2FqNnnBRhOAJC75HLpIf2OTN36nJZSD%2FzpReAlSazmV2UhHyVu1Rx64l%2FHW2BAjPCLqrMLqY91trv7IMhDa9jDXjAbpK20p5UUAtVPbl%2FhgmDgooa4HgSciqQSi5Cvj3su%2BzXgiED5W2T2BXpOUUffAKXDqwC%2FgP%2FVpGfA0zO33WYZm8f71Y1WvZbiMdaMawGg3qcCf966Z6GWxx6V0%2BwzWTPxvacQ%3D%3D",
+    "description": "1 sobrecoxa desossada (Aprox. 195g in natura), 6un de sassamis empanados e batata frita. Dois pratos com 2 acompanhamentos e molho.",
+    "price": "40",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae0b",
+      "name": "Churrasco"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b7d38a1eea5b90bcbc8f"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Salada com Milanesa Vegetariana",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194321755_imagem_2024-02-06_013831270.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=Hs2TK7IK%2FuKYVgqlHuE75KvBJ%2ByHWz1LqGMeXnP2mVnq3U1UcInai%2F31siCde72wPlBYfp%2BvzWgsXCYL6ROBitDSsXesRuL7V4yTWfS72hN5W%2FqxPm8iQslU0sB%2F%2FYoxeTgcUfGBcVWFb19%2BIul0uUHbIimSzLv54soFQ%2B5kJoLkxu%2B%2BGoUBN0L8rD%2B2cnDyj4WjR0xdQZ9ZfLy1azwFcK3CWQggGtpGBaDfpLDlIduOXKdKBlxnrNhvvEPNupULz4KHrnsS1R4DAG2H8YmfwOw4vXSvbaVyGbIqQjc3AJu6pdSYdof01e%2BQ%2FN9Cp%2B7YS8D0XDKoR0tQ4ScFW%2F6wWg%3D%3D",
+    "description": "Milanesa de legumes (Aprox. 90g in natura) empanada, com alface americana, cenoura e repolho roxo. Dietas ovolactovegetarianas",
+    "price": "20",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae08",
+      "name": "Saladas"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b7f48a1eea5b90bcbc90"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Salada",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194354920_imagem_2024-02-06_013905894.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=FWHdDI11cMZLI7KLYLytVNC62%2BkX3gQWut1N8w2wBb4JIrTL5W0T0iTuFwZ6FiN%2BmcS8klP9dyo1tk2rKb5fof43ry1PKBfXc9JOlyC0deJkUTaMdh2Sjeah9nmEE1VFPXaU8mhLxScj74wfdSPGgi3%2Bp7%2Fad661HiJ1WPcbV6U9VpigQF4EhF%2BTq%2FgWsG66PVYuCJE1rntxGeSE%2Bej2XC4%2Flq4Hn%2F3RFZaJVXQYaMQCL44GO4m515ZpEhG38QgHu%2BwXWmLRRAGy%2B1s%2BtLkHoxqGQyDh5yYY6vIcyUoSZP9oqN1zsrAuwwgG%2BS27axSEaNdg53shj1EriqI8rlorRQ%3D%3D",
+    "description": "Salada fresquinha de alface americana, cenoura, tomate e repolho roxo",
+    "price": "15",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae08",
+      "name": "Saladas"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b8178a1eea5b90bcbc91"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Brutus",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194390434_imagem_2024-02-06_013944358.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=hXoaqYV5f1T9YACIYAg9PDZnYU7aLKZPFh23WQbwhCiORCxr2B3gJahQjRORzws9SkBZSSYe3t7eyE1oszRMPet%2BQMnlH5D15yRS039UxVPUfVYSB56oJOaVnnDsl%2FjB29csIT2GfEqRhQSSBaIAg558pLix7uX1mC45PYJO3%2Bz3IuTqh3EUOQrMbtd5Tqy4OVwM30ujB6bsJkY%2F7W0kCgAYht1adeSkIiveAGgqN7ZorR1zGzc77C8xjfUj1fMPRxGw92I%2FhYYEOmIMZNfKTTsNOAx2H2atswJl1SIXUJ%2F5AUBlGjlenV0vU4FLv1z1lmocmXkqRx7d4HYwyrQTew%3D%3D",
+    "description": "Hambúrguer bovino (Aprox. 100g in natura) com o tempero da casa, muçarela, alface americana, tomate, ovo, bacon e maionese.",
+    "price": "15",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b82a8a1eea5b90bcbc92"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Megabrutus",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194409605_imagem_2024-02-06_014004538.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=OboYJq7exax2iLELm7yH%2F9K1d39i2ml1pzrlHBti8%2Bumdl0msQy9CY7sOGEaJtDl8l9UQntwGc9i9nBuV0kf1kcNSpbDEmB4iMux6oAbC9ccwcfO7P6ybYMbSrBlZPtUIdzJ3nTsX9k85g2GUTtzG9LmJgnOFlaEGIYrPJWgSVbLtmQcp0BNjQ4YlHmmZzfm2KkJt3FORxn6tDBOJgIB8%2Fd1CxT6zFBE6v3wphZYUTZTWGvJN3uWpxy9iAqhi8J4WTyTSdY89ugoMjsVWphzj6dVJEVTTNQfl6qkLIq8lMmlT%2FIMJrpjAFg48YEdRhEnj%2BuA%2BXJaVljb%2FjCQYidjgw%3D%3D",
+    "description": "2 deliciosos hambúrgueres bovinos (Aprox. 100g cada - in natura), muçarela, alface-americana, tomate,ovo, bacon crocante e maionese.",
+    "price": "23",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b83a8a1eea5b90bcbc93"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Cheddar Acebolado",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194425821_imagem_2024-02-06_014017927.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=RhE1styOHtuzRKvhtyJS0Fswj7V2rqmEfP6uoMFIRKt%2BHNy53GJo%2FAr%2BzELZ1eYzof1O8WUOi3C%2FmRSqCI3n%2Brj2wyU6ElLGY8ingwpqlwZKF%2FoNZume09pGHtQBmVb02Zw77AvHbT6mlreswARbTHxRbC4qhYN75DcqgX3N8HzR1YCMr14%2FmTZd98%2B%2BklxXk0iLCtYleVeJ1nWlcMslYapPUiPyrhjj7h9YyO3114bP61dx2BRmdjAROSDOCYPigmIJVHc6iRN%2BL1s51ePEGiozDfwST7B%2BrRdo2W7kcZnqJV%2BidKcz0LFrGSF2tqrBsJXcpE9riCNVjIW%2BNlaaBw%3D%3D",
+    "description": "Hamburguer bovino (Aprox. 100g in natura), com o tempero especial da casa e molho acebolado e cheddar cremoso.",
+    "price": "15",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b8548a1eea5b90bcbc94"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "X - Bacon",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194451816_imagem_2024-02-06_014036089.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=UgSFwcSDYvnbu8qiSHc6s5FxZWZ4ytiCfTyo1hpWjJ9Dg%2FWOG%2F51mX7g7AxI%2BpzQ7Z0K6zkvYu80nXS%2BlRbKu1Zw2vMFeq2GGkxE2HIOU9STibzNrz1wFQBQDkKX397tEtmMDaooF8zPz%2FHwca5aTR7%2BzcFvFhs%2Bu6eB%2BPhpLasopstYYcBok2BYQyvz%2BAklh7jkMCebB%2B%2B5or7S9O01tnPPD7JqXabouz0yN7g9EohB5fVS6tpf%2FX%2B8ozRaV6rM9NsMhGgAU1AbvqsS555654RO9U9ZQ9X86z%2BtjvIOG8cA5S7xtoo22NNtP6AerauEoSYhFmj7fJOY%2BfRhivZ4yw%3D%3D",
+    "description": "Hamburguer bovino (Aprox. 100g in natura), com o tempero especial, muçarela, bacon crocante e maionese à sua escolha.",
+    "price": "14",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b8728a1eea5b90bcbc95"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Grand Salada",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194480410_imagem_2024-02-06_014107187.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=gM%2B0tfisolwu7Lq%2FqyaNbTkflQBKQ50jtrtUBaoJ709wGl3TTVnLb%2FCRAf9xYPCDCk2%2FnQ7Q1rE4aWUDpiDEvnxtAE%2BMaWrRC8DG5Qqzncsjm2Iw%2BzROtt5ggk5ebL%2B0%2F7TFrLZQr3%2FPmTWYCKu4q2zGYVPlG0BkldU2PKS5kXVKaDABqLCI5IUsWPfDoUxdhCTYG%2BTS7QapJRZD0vQPtIsmjBKpGufnWSTP8%2Fg73PTxXxcAdi3Im0W59RzdRCkZ4MyGUs%2FK92KQOVM1ks2bAbcpZCVCNAUftvIsSiJHR9yKN5tSM%2B%2BZFOc1tYk%2FPeAqQHPyBmT59oWOlDVbVZOOuw%3D%3D",
+    "description": "Hamburguer bovino (Aprox. 100g in natura), muçarela, alface americana, tomate e maionese a sua escolha.",
+    "price": "16",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b8c18a1eea5b90bcbc96"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Combo Brasileirão de Frango Empanado",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194560192_imagem_2024-02-06_014233340.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=DAj9bwkMP8MMYZtKO4YpiAt0Cl0bQv1IGBMbS6diJkmBufQ4ueg3BvfzEiUsuOVLmpNfcsF6j66mJUEwlHL8msIN%2FG3IK9VtRDcPZioXsa3rWvBwwCSvK5zs8ujVDYy5u0sZ1MqRIzHZ4oOcu83F%2FANga1sPL1AFabZhDnz32rEHrJpQGCGoSZeUGHe%2BEnSTDMDVsNR%2FsOjKfWM%2BzutgZmDFcFQeLN6HbpcTE3zPeEutFzn60b73uT169OkbTIERtiuh97tc7CfuegyWB6srK5MgbKcrGmAkDzCmP7L7ECPJwRTczNL0nMEqTr9Milac8QuUm2TgkZ2dSju0WdX97g%3D%3D",
+    "description": "Prato Brasileirão Filezinhos empanados, Casquinha e Bebida",
+    "price": "19",
+    "serve": "1",
+    "category": {
+      "_id": "65c1b6b5c99a67c47af73777",
+      "name": "Comida Brasileira"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b8d18a1eea5b90bcbc97"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Combo Brasil P8 - Picadinho de Frango",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194577008_imagem_2024-02-06_014247575.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=eI6VoDjlqB9HSu5TXrrWqkbKS2ym4FJ47n%2B1EuKRp0jse6aA%2FSayBobt0puEhTR7ZfmWtjILN0waTeT11KU5twcDxyxyoIz4%2BA40kY8sbUrJl9BZ7k0JBrsi1Tb02pHqO15pQXjHwxlcqC4ffTrhNukhV3qPLm%2FqTK2eJ7GkDnmVFSQhZZv6Z15WpSlhg%2B%2FvMUvNV044hFxyxKSAPHwmsMYxdFr761a7db6ftoIDaqCgHBsnqB8Q63jfrl%2F4nrdg%2BoA26rfJojjeWQeWhTZ8LjNUBuEJ%2BrOEG96d3mkB1qK9TcuwKYFwAc7SlidcR4av1xzGNbVPHL3M0M2%2Fir4ARg%3D%3D",
+    "description": "Prato Brasil P8- Picadinho de Frango, Casquinha e Bebida!",
+    "price": "22",
+    "serve": "1",
+    "category": {
+      "_id": "65c1b6b5c99a67c47af73777",
+      "name": "Comida Brasileira"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b8f28a1eea5b90bcbc98"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Combo Brasil P1 - Frango Compactado",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194609336_imagem_2024-02-06_014304692.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=YUzBSzc0222Bjc%2FRuKvz6YeQjFICMc1D14VvVNeF%2Fny9F%2BLsu28k%2Fa%2BSRu33xkP87V%2F32q%2BFjsdjRQFofUZpVnjdVjT5X0sKdO2wV3wiQG3rgM6oOWfLVFMrO5FrG%2FmeHl5twO7XkF3AWe0YVqbAM%2BXNNoQ7t7T95yNVVpFE7ewMtAsjRBfLZECECXCjAm248Rhssq8VIbrr3yY%2BC9rTCQlyJjdQHNMPHbyjX0yt7gWP79WLZh1rc25DPyhd2s8eg8qq0WtkpbWkeJ35y2BOqnAoYwCpsIPPyOEfYKDqd5ve%2FxT72keUa3RaKyw2YFP8CJWNgLVTwsB3xP7IJ%2B6POQ%3D%3D",
+    "description": "Prato Brasil P1 Frango compactado, Casquinha e Bebida!",
+    "price": "20",
+    "serve": "1",
+    "category": {
+      "_id": "65c1b6b5c99a67c47af73777",
+      "name": "Comida Brasileira"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b9098a1eea5b90bcbc99"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Combo Brasil P10 - Biffinho Acebolado",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194632846_imagem_2024-02-06_014346489.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=SEerkj6fh8IorXqqRsDEb5H4oncwuo3MTwahVLDhioHikB%2Bbb509J33U3nOV3ytxGUBhQGhOBMTfxzXrfux8pb1J9cVPo7KaUkVcSXFjkezPyuy7RuHrhwbYlAPytkypPSGvHSA8hOhjaLHydmjDcM3mqOYf2VbG%2B0BHTApHvL2tZbiW1vto36rSxaBJmOqTi4Ulph9rXgkanZEvL%2BMUdJU1XdWSEo09o2GaeIAkW7NnUHDXf1pebdDlj3PjVzeSc1UzuuD2CxDbwsVcWVlTZyCyURSD6VU%2B1JsL8RVjL0y7E8cKvVCp523lSQEemks4HdZtcYyClrsrx2cT9OOvuw%3D%3D",
+    "description": "Prato Brasil P10- Biffinho Acebolado, Casquinha e Bebida!",
+    "price": "23",
+    "serve": "1",
+    "category": {
+      "_id": "65c1b6b5c99a67c47af73777",
+      "name": "Comida Brasileira"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b91c8a1eea5b90bcbc9a"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Combo Brasil P5 - Linguica Suína",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194651817_imagem_2024-02-06_014401958.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=K0H1SAlyMR0agDIrhpeIVIp9IZTVbqhn9W%2F6ahuRH2XjYLockexO4s39doG9u7MlZ%2BfoKeq9wbV8P7svhgKH3P27%2BIN6RgTh34K%2B23OHmDxEQFh7vN2qJkmcte8pJEGu8ptPaQ%2FABldiPJ1ccc9sTAkTnQ1vV%2FFFM6MWx%2BCglicwajqw7VvCRKvjCm2eLNlw98Es%2Ff0VFI%2FUIqaZqm%2BUBoWrbHRQUOuZeTENdipAtyA1MIDBn3LGi5T9AYycy2p0Hido5Tz3elRUj1M8og8XT5R0qpmi41CfhtttcuIM5IeiU7GKMQrPGEbPGZ16z0fboOof6P40aktENlSBKWTLPw%3D%3D",
+    "description": "Prato Brasil P5- Linguiça Toscana, Casquinha e Bebida!",
+    "price": "20",
+    "serve": "1",
+    "category": {
+      "_id": "65c1b6b5c99a67c47af73777",
+      "name": "Comida Brasileira"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b92b8a1eea5b90bcbc9b"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Combo Brasileirinho Steak",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194666459_imagem_2024-02-06_014419087.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=ZJYJCdK%2BpitaUX2rNAejGJjwDIyyO4shfehwjem4neMJLDfmwn8QsqCJq0YjuOr%2Bw9zpkuAEKgZsnxt7DTtuuB64T9crSRQ5A1BokqLx8n4Jkpe2%2BbNetcqumqg79lCTbG5gUMdqn5KYXeLBOlWqTQI%2FBW5A2LipUDrS6T43XncJvuxRzyKtoQ3vEkQttR3sHGm7dYzrWfRnnKeWEXcMOI6GUlKNs64iUGaL79UAtd68ixHCooocP2QYcfYVgAvDdJDzFqNYNC0Urk0SHpvD9rqu1hyKlOxFeXiX2weUxovfzkioqq9xc1SHdSrZL5NDHw7oOvSir7nZ4OHIZncwfQ%3D%3D",
+    "description": "Prato Brasileirinho Steak Bovino, Casquinha e Bebida!",
+    "price": "23",
+    "serve": "1",
+    "category": {
+      "_id": "65c1b6b5c99a67c47af73777",
+      "name": "Comida Brasileira"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b93d8a1eea5b90bcbc9c"
+    },
+    "restaurant_id": "65c1b7148a1eea5b90bcbc8c",
+    "name": "Combo Churrasquito",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194684146_imagem_2024-02-06_014433934.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=GR%2BhWKACw44OdwXJhE%2BWb9hiPSwdOenz4H%2BweRqvKfUCgMEgj%2BNI5E5Dftwnt0LB2%2F8p6D6cjyUjYUlgVX%2F3JFws0DkM1Wl%2BVZYqkTgnJVNOuGL%2FI8%2FhaEK9rJU8%2BxMqJ8x2kap%2BX8dpC5powK2McbKdyGubJENXC9nfpuPiC6zwIdIh7ekZsQxukITOv3i6P9kCbum%2FOaivc37GKKqQ58i1Kjrp8mC6TAt%2FZEOnNYeJV7ltEeiU2ywbMEoCVuncCZxXLbGYRALozINH5PdlXDaXsBadhMGT51mmyqhwroiQsTXgx3PZY1BHZxuo1josHeQJpC0Wv9xRRdzIn8kyxg%3D%3D",
+    "description": "Prato Brasil Churrasquito, Sobremesa e Bebida!",
+    "price": "25",
+    "serve": "1",
+    "category": {
+      "_id": "65c1b6b5c99a67c47af73777",
+      "name": "Comida Brasileira"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c248a77ebf1fa1d5753d1f"
+    },
+    "restaurant_id": "65c248447ebf1fa1d5753d1e",
+    "name": "Deli Bacon",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707231398380_imagem_2024-02-06_115548644.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=oeRVBI55Z5VaB%2BWyTYazjsSA9BXgHlxR%2BxcnpTrqjtt8k1hl0c3n75%2BGllgfx9qLbNDotiLeTcJeCYvqjg%2FHN8gGYQd87olLrfAKmEvgY2G%2F2%2FjeQeGn891xFqmZxrM7xdLbmY%2F%2Fwie0%2Fe4NWSlzooPL5lSUCUC3IFtfJ1P85BHCtOhkTpesJWUiM8VJQrgH0A96rCSPkoB%2BO84arWbJqxOqUh9uhWOmvTXJGVOBDHjz6pCbxBbwVSAUwyunsAlsWqzMOjyn7Me4dk7L1%2FHCETG%2BoWzF2RtOOGsfT05TM4zg%2BvHaiWhJSSX5Hl3bfPTUw5EMnLlwhuLpUrqNDtanjw%3D%3D",
+    "description": "Pão Brioche, alface, picles, tomate, bacon, hamburguer 200g, muçarela",
+    "price": "35",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c248ea7ebf1fa1d5753d20"
+    },
+    "restaurant_id": "65c248447ebf1fa1d5753d1e",
+    "name": "Deli Duplo",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707231466100_imagem_2024-02-06_115705988.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=f9CRg29kuBNWCpC4y3O0USyJlBaTO3v9w6sbaQznb4WrWX%2BbosXwVx6zGeclkCclr0htiPQ4CtB97ueWcYtifiIPMAkCAJp1Cpa7zubAQ8ymEA3aK1y7mUwUVZrpKv%2BBh6ZAuv1dN7jl2VsiS43KQOyrEOB6eyRriis1%2BP7mUw%2BxRIfarE5Rr9SjzUdgXZdkl7MGoqLM3DKQ2ZKJXqOx%2Fu02N4W96gsbtiFYTQQT0cPdgdjXQVhTxr%2Fx0Y9%2FokQ22ynM%2BmuW90WkpRpoIei6LMg3y%2BfC2fKwLNgsgpw9i2M5ttc2OacA8gvWZ01%2F%2BcPDQClFKtWg7U0CDE94aVMCKg%3D%3D",
+    "description": "Pão brioche, 2 fatias muçarela, 2 hamburguers 150g",
+    "price": "25",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae02",
+      "name": "Hambúrguer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c24f717ebf1fa1d5753d24"
+    },
+    "restaurant_id": "65c24ecf7ebf1fa1d5753d21",
+    "name": "Penne da Mamma",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707233136452_imagem_2024-02-06_122526984.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=Xph47%2B7KETwiCcZT1uhBfSgDbrF3f6R31BysoowDH6WNKiGhLPG5ZSPpPInvP6FgUsj048bGl6Lbq9igja%2B5WdKrspFAUW4SO5h52MLKtRwZXwNt0dkuioH4wiRX9nER2ztiYlT1E8kUaPm8POACOzcDPkg9fDIDigWtI8mauovajN0FPSgp6wOXxavEi4yU9UiUGkiLsPS8k060D1qs1tVNwfmVK2twEdegFX1CmPeli5JMwI1pxMMirw2IX%2FaOQM0oiODyKi45tT0iQHcgLUe2fjp2%2BNGmNNodFByvJ8EEkJrYCtwo57f%2Fe78XwUq97%2FPltkhcAh46WFphDxQFJA%3D%3D",
+    "description": "Penne, frango, bacon, presunto, alho, cebola, molho branco e molho bolonhesa.",
+    "price": "54.9",
+    "serve": "2",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae04",
+      "name": "Massas"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c24f8c7ebf1fa1d5753d25"
+    },
+    "restaurant_id": "65c24ecf7ebf1fa1d5753d21",
+    "name": "SPAGHETTI BOLONHESA ",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707233163023_imagem_2024-02-06_122552117.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=opGQGEYiNNy7eN5bQoS1IihDAzr9jrGnozfeBZkpaCrBuzb23sGuCMDdejJUuJ%2BhlzjW7fl4EEWwNZCSqn4Xk6B52gIKgjyX8Gf7wZwVDJ3zo84yr8ne2BYmKwFdkyQc0iAh6kJiyozUzJNNvaR0WbbOefusPlX6r%2Bfvoa%2F1gOf9cWRb7O6eWc%2BWtTLiyctPWdg%2BUq%2FGUlAtoFhd5ppO0kWxjq6sp0hPef1Nz6JqPQ%2BdJrFLrXNbac8Oju39DHIAim%2FllvtevX1qFr9GOaL3L0jIr9ngksWFI%2BU%2F6w47sCKLAOzXptv3DTLj5A6p%2FTjyeZl6iwl5z0pHrropfnd5YA%3D%3D",
+    "description": "Spaghetti, alho, cebola, bacon, molho bolonhesa, salsa e parmesão.",
+    "price": "49.9",
+    "serve": "2",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae04",
+      "name": "Massas"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c251287ebf1fa1d5753d27"
+    },
+    "restaurant_id": "65c250cd7ebf1fa1d5753d26",
+    "name": "SUB VEG",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707233575583_imagem_2024-02-06_123241577.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=TRTOAi%2B1gVaP8QIKonnuqTOg%2F76w1BnCCqOENrAmEvx6tnqxSoj6wkdg1%2Fv0VwsETZ%2FnRoGd%2FdE0X7i34uVt%2BYdFoKHZB8BHJpgbkWKmvgtdmaOlvpVoIYHcejRq0%2FxoJFYKAwypQFg2y%2F%2BF1Uo%2B6kye6oKqjBfa6toHETJZzp5gUBcN8j0tj6wf4MTnDBo5mHw6oulQBby%2FiG2TnMdMj2CNPvMRYOUoqqCIOzEr4wcb6M6DEPQF9MWB%2F7ffl4PW7bX5kYICYHSeEkWBh4Tyg95a%2B%2BV%2BX%2BeorVo0SPmCbbdMz2o8IPxMicQtVyBZcqrHO2VDZQGrSilW%2BwDvOeXvgw%3D%3D",
+    "description": "Sub Veg é o novo sub com proteína de Origem vegetal, sendo uma opção para os veganos, vegetarianos e para quem quiser experimentar. Imagem ilustrativa.",
+    "price": "35",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae0c",
+      "name": "Sanduíches"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c2514a7ebf1fa1d5753d28"
+    },
+    "restaurant_id": "65c250cd7ebf1fa1d5753d26",
+    "name": "Sub Veg (15cm) - Receita Veg",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707233609617_imagem_2024-02-06_123309635.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=Ffypk1%2BiGIR%2FLcYYxEQGHAl1LRR2np0x5CvQKFLpjO21LQpekIhcGeveSSotWAk6LVK0pbjVLszBJXUX7QcH0qWi4Bv1D9jDqW2e34wFbrdETS0BmBnP6F5tORtWv7F04fhZ%2BEHxO9%2FNuHwK3UWFHe3q1Ih34hxU0AFX3Vksn63V6OPKNKqXzOI1s6f9KKP2c1dhu3z6CjDztz7qhxP%2FefSwz96nJYlNQFA7Gd8R3Rnn9Q6kN5BLYKxXJfjs0It46hRnac3QZybqAIJLUJ6%2FpYfSyPW8iR0M8rNqJCn%2Fb2YfwuWSvqp9PTpu1RAp6geoVyl7lNZCrKM3n4wTOAGIHg%3D%3D",
+    "description": "Hamburguinho vegano, Cheddar vegano, Alface, Tomate, Pimentão, Cebola roxa, Picles e Molho barbecue. Para uma receita 100% vegana escolha o pão italiano branco. Imagem ilustrativa",
+    "price": "32",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae0c",
+      "name": "Sanduíches"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c251bf7ebf1fa1d5753d29"
+    },
+    "restaurant_id": "65c250cd7ebf1fa1d5753d26",
+    "name": "Sub Veg (30cm-Footlong) - Receita Veg",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707233726097_imagem_2024-02-06_123513581.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=UpnQ%2F3mOCRyJ2JfDqqmhInH3hHvfCiOZckG1o60Dh5kjBzE0uB2NK5towxBMh1%2FFmog2ezzPUblHNL6VEpPJd6mGCUmo0g1oMfNxyNPL5Bq9Lu%2BmphyyccinnnVprTIw6R37jLWLaHUBFGYJUomqMnlK9JryhHmmWsEeQorQ5spMPSVsRapXsYTMU%2Fv5QlTsPdKu9cqrCM90BStu4NPHjbYtnATgfF3JNEoj50JPlJyz%2BfqL9rx28oZNzZgawZTLBM6Z7M0lvaGgKYgmEtFtQr4C9agBeGEL3FWV6AdNjpLzmIyABRz7wE96aT9tI57OA8yeSrJX0Rs2S%2F9%2Bb9FFQg%3D%3D",
+    "description": "Hamburguinho vegano, Cheddar vegano, Alface, Tomate, Pimentão, Cebola roxa, Picles e Molho barbecue. Para uma receita 100% vegana escolha o pão italiano branco. Imagem ilustrativa.",
+    "price": "59.5",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae0c",
+      "name": "Sanduíches"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c251e47ebf1fa1d5753d2a"
+    },
+    "restaurant_id": "65c250cd7ebf1fa1d5753d26",
+    "name": "Monte sua Salada",
+    "image": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707233763127_imagem_2024-02-06_123542905.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=llY6cta%2Ftt7UFA2VAT5CnugFStkzsvazSUsiGXYNeYQqBSU7dOTY2pAX%2B9VnToiCRPDus0oG9nI8S7fZ14oHzalYk2VNRpRMXR7xKhpzlrLtU9P1Lfre556OQRmdS8mccU%2BQcpm1BgtfMl4EIvMmf5xiZrRaU7UQDzzUEW58hfoMbw%2BrWYb4EWwFR%2FLeGQQWDDdF3Pgwcp3SOeW1btJLSXPOoB6dJ8qev3YIXyzJrCZthabK1gDmH97Mm7%2FlwwLmLvUZ8h844s1j01A0liCgaQMCgMddN3H3o0zle4PjNQMqVHuaSkdfqgnrbDHm2JNMVx7AKfn0qt3jT44pL3BSWA%3D%3D",
+    "description": "Monte sua salada",
+    "price": "26",
+    "serve": "1",
+    "category": {
+      "_id": "65beb2a75455430e4b74ae08",
+      "name": "Saladas"
+    }
+  }]

@@ -1,0 +1,236 @@
+[{
+    "_id": {
+      "$oid": "65c1abfc8a1eea5b90bcbc7c"
+    },
+    "email": "burguerking@gmail.com",
+    "name": "Burguer King",
+    "categories": [
+      {
+        "_id": "65beb2a75455430e4b74ae02",
+        "name": "Hambúrguer"
+      },
+      {
+        "_id": "65beb2a75455430e4b74ae09",
+        "name": "Sobremesas"
+      },
+      {
+        "_id": "65beb2a75455430e4b74ae0c",
+        "name": "Sanduíches"
+      }
+    ],
+    "password": "$2b$10$Z.u2EXwDQAdEaE16NVakCuP3aAvMZLtvofyxH907B5TuhvvwpeLDa",
+    "cnpj": "75700329000164",
+    "phone": "3432100244",
+    "auth": {
+      "email": {
+        "authenticated": true,
+        "code": ""
+      }
+    },
+    "address": {
+      "cep": "38407744",
+      "number": "122",
+      "state": "MG",
+      "city": "Uberlândia",
+      "neighborhood": "Novo Mundo",
+      "street": "Rua Providence"
+    },
+    "logo": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707191291316_imagem_2024-02-06_004727441.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=myvrgVQWXHJoH6zi0wq%2BCw4Kg3kQBvi8rNnb4tLdSdj5vxtQ8YI%2FcfCdTiqdPuNwNvt7tau6a254vk8Hj6OS52WCqh8YwzuOHMaceUM7INd76Dz9EisEUApIIYzPKmfL7o4bS3p9HxXdStI3z5%2BdximkqxjKLFWRC7SiZ3%2F9RdLoYjHvKn1MMBNz34bm5mGL9OAgOMcymGQVdTZQ%2F7GVE%2FVnpeIvj9X5vyuSTrrZugxQRtHAiqA88h%2FihdBmqCH2nF%2FTzakFRdlTYuOGkSX8dZQMWGJOBEz%2FXpu9EQYpON90DlE7WIXg0dOaTJjtLreKFg8FG4cfG2ZhWyK7Rg%2F1hg%3D%3D",
+    "created_at": {
+      "$date": "2024-02-06T11:48:45.804Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b3748a1eea5b90bcbc82"
+    },
+    "email": "mcdonalds@gmail.com",
+    "name": "McDonalds",
+    "categories": [
+      {
+        "_id": "65beb2a75455430e4b74ae02",
+        "name": "Hambúrguer"
+      },
+      {
+        "_id": "65beb2a75455430e4b74ae09",
+        "name": "Sobremesas"
+      }
+    ],
+    "password": "$2b$10$GFFngF9ShbMF15vX9w.FeOeXm6ij7vkaidehnE5TSqKMhMe7k8d66",
+    "cnpj": "28850461000172",
+    "phone": "3434535235",
+    "auth": {
+      "email": {
+        "authenticated": true,
+        "code": ""
+      }
+    },
+    "address": {
+      "cep": "38407744",
+      "number": "4556",
+      "state": "MG",
+      "city": "Uberlândia",
+      "neighborhood": "Novo Mundo",
+      "street": "Rua Providence"
+    },
+    "logo": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707193203860_mcdonalds.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=Wjy610DXOdoAIb1hWAfsBs%2BCZsB%2BjmV2TCHJ9FO43XgARBysZEQJ308kDKG9NnHFjgouey0WMRVUFtGTCE8U7BPNqA%2FYbAprta3%2B4RhU5hlJGvw6kHB9CYeL%2BPR6kMq9tkg1g1vOx2oFswVad5XHyOXkRAc5pX4nIQr2AjHKfdmaMmFZIPkD2Wgbu20tqxv%2B%2FdzQHuVB1URKrSSfTrHCIp7RCyQJX2ZZjsQUhpYqVNnAAlvlTEPaj%2FfuPbyuu6%2BcruFcg%2FautAwMAK4X%2BPWOg7gnpMAnc8GJw6Sm9om6MgySYcQoNtXAHYJ4IrRe9I6CMVjDwmVeg%2BfhB95B3HB2uA%3D%3D",
+    "created_at": {
+      "$date": "2024-02-06T12:42:45.804Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c1b7148a1eea5b90bcbc8c"
+    },
+    "email": "giraffas@gmail.com",
+    "name": "Giraffas",
+    "categories": [
+      {
+        "_id": "65beb2a75455430e4b74ae02",
+        "name": "Hambúrguer"
+      },
+      {
+        "_id": "65beb2a75455430e4b74ae08",
+        "name": "Saladas"
+      },
+      {
+        "_id": "65beb2a75455430e4b74ae0b",
+        "name": "Churrasco"
+      },
+      {
+        "_id": "65c1b6b5c99a67c47af73777",
+        "name": "Comida Brasileira"
+      }
+    ],
+    "password": "$2b$10$td.AhNFCnK8l9z8tsDp/NefK1N62bdxKA7qePDw45ZRhlGW8PhRi.",
+    "cnpj": "55643459000103",
+    "phone": "3432782331",
+    "auth": {
+      "email": {
+        "authenticated": true,
+        "code": ""
+      }
+    },
+    "address": {
+      "cep": "38407744",
+      "number": "4223",
+      "state": "MG",
+      "city": "Uberlândia",
+      "neighborhood": "Novo Mundo",
+      "street": "Rua Providence"
+    },
+    "logo": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707194131938_imagem_2024-02-06_013431587.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=EKhk42jutH%2BFUdnVjLDmzz1h75k5euJYewTGiuruTc%2BgiEuKhCM00eBh%2BMRFgyYvvVw7DiDKszdrhHTzw7DCtSp2D9VwYM0AbzERfsHz8x%2F3ppu%2BIQdHp4wo3rPn5IlB8jAb5YRZwoEwb4%2BhSCkv9E0Hk8NugITGF3UuLb5iuq3Sn0YHBeaSX84PlKog7L%2BN5jQFeN%2Fw7F3HzMKaARLJCPUhYzyeJPWeLRa7yn7ZNmH2QKdFlZ2IZXzROQdrrwMhWb638XrRov1POnzPXitTxzdsjB5SMACRtWy7QusbJJbMOKWUZQeHMg4H5Gm3RHZgVwdbwQ7%2BihbCIbl3arcouA%3D%3D",
+    "created_at": {
+      "$date": "2024-02-06T11:57:45.804Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c248447ebf1fa1d5753d1e"
+    },
+    "email": "deliburguer@gmail.com",
+    "name": "Deli Burguer",
+    "categories": [
+      {
+        "_id": "65beb2a75455430e4b74ae02",
+        "name": "Hambúrguer"
+      },
+      {
+        "_id": "65beb2a75455430e4b74ae09",
+        "name": "Sobremesas"
+      }
+    ],
+    "password": "$2b$10$nn6i/Vr6vFW3rChVgWhRUOjP0cMkQfSUK/Jso0bvkQl8iB7HLo5JS",
+    "cnpj": "75043891000162",
+    "phone": "3432424554",
+    "auth": {
+      "email": {
+        "authenticated": true,
+        "code": ""
+      }
+    },
+    "address": {
+      "cep": "38407744",
+      "number": "7885",
+      "state": "MG",
+      "city": "Uberlândia",
+      "neighborhood": "Novo Mundo",
+      "street": "Rua Providence"
+    },
+    "logo": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707231298665_imagem_2024-02-06_115355364.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=J8csLLwwgsJzESclsdtxtjo1g05QfbGGtQ1HPZGpTjnxQWU4%2BLdos3CCtS7cLpR%2BDuAYjScvacuwKfvPcgftMtXMBAymEAgFZ8vJCto9DTXQUNt6U36ifnF3DaChuJiDr6mIdA%2F%2FRMiNtxrwo2LziYOzA7BRGbXEuZztMbz5QZ6RO3HRfRAYCzAO6CduslDJ48h9Kb0JTJVOWo1bHCT11bsvXmhCJ9wE%2FNv31QA8HwpdWD45R0TAUk0%2FQrKqZYab6I875O7ZKTJlFh2wYrUJBnbCO6UGGjMhnymiXo2Y3x%2BsUK3bA%2B%2BUedtYqEE2tZVD0%2FOvlcl%2BSFFMyMr%2By6sO9g%3D%3D",
+    "created_at": {
+      "$date": "2024-02-06T14:55:00.009Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c24ecf7ebf1fa1d5753d21"
+    },
+    "email": "amaretto@gmail.com",
+    "name": "Amaretto",
+    "categories": [
+      {
+        "_id": "65beb2a75455430e4b74ae04",
+        "name": "Massas"
+      }
+    ],
+    "password": "$2b$10$p3eSJgJzPqnPBHT3DCsupOlUfawN9nGME1RUgryh8J/JgRkny.pgq",
+    "cnpj": "51817036000101",
+    "phone": "3432423423",
+    "auth": {
+      "email": {
+        "authenticated": true,
+        "code": ""
+      }
+    },
+    "address": {
+      "cep": "38407744",
+      "number": "2344",
+      "state": "MG",
+      "city": "Uberlândia",
+      "neighborhood": "Novo Mundo",
+      "street": "Rua Providence"
+    },
+    "logo": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707232974589_imagem_2024-02-06_122214417.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=QXawhUxmsCEPc713VsFK%2BjGF9VSr4yyqgskW487KMP39Hhs4eEEskOGloff4w68y31M99Obq54qOSasi%2BNYRMzC%2FhLjJSuDZybTveBQL2J4lCLXahkESjMcwnFN4RE5T%2BfURvTvD3YwXLsmzmKeTNOr86kXBOKcs4OSKoQt%2FP32hE%2BADQuKRfRGWJ7p0E4rYo584b%2B2%2BZsSsreQ80Tfbrj50iPpmZkl1i4pTWjnafJw1xejsJBP%2FQluS9d0w866R%2Bb2daI%2FcnpyOiwoU3T5uP%2Bv8TzFHUUOXLHu2ZLLPBWZVUZKD5F0enR8OITyMawIrkV6%2FbCJHYlAgdWZe%2FkdGEQ%3D%3D",
+    "created_at": {
+      "$date": "2024-02-06T15:22:55.187Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c250cd7ebf1fa1d5753d26"
+    },
+    "email": "subway@gmail.com",
+    "name": "Subway",
+    "categories": [
+      {
+        "_id": "65beb2a75455430e4b74ae08",
+        "name": "Saladas"
+      },
+      {
+        "_id": "65beb2a75455430e4b74ae0c",
+        "name": "Sanduíches"
+      }
+    ],
+    "password": "$2b$10$/JcuFuNT2UpU.UnJCiRkneWPz9BYRnzUWbryvBii6iX70ZhE3ffoK",
+    "cnpj": "73564312000100",
+    "phone": "3432354564",
+    "auth": {
+      "email": {
+        "authenticated": true,
+        "code": ""
+      }
+    },
+    "address": {
+      "cep": "38407744",
+      "number": "2112",
+      "state": "MG",
+      "city": "Uberlândia",
+      "neighborhood": "Novo Mundo",
+      "street": "Rua Providence"
+    },
+    "logo": "https://storage.googleapis.com/ki-fominha-a6f18.appspot.com/1707233484777_imagem_2024-02-06_123038365.png?GoogleAccessId=firebase-adminsdk-l90w1%40ki-fominha-a6f18.iam.gserviceaccount.com&Expires=4102455600&Signature=pJCSRor5dXdhEgNawvhL%2BktYcPSVkKmAIZSPfiw9seaXX8GrL%2F5VI1MS8p4CLqqtON4%2BQfbPECYp3KZN7sj7hKkNKRxHJpmsD%2Fgyc%2BN4M441H%2BjeABwWBkC7FydhIWwTXjSefyVMojkqF9CWh%2BhhsmPrtm81n4XU3ffyrajEFGT45K6q%2FBdcjZlWnaG8zwTINlIlk7MeWo%2FTQFDWC3NpUFyS3auL6n%2BrJvTkPPY282dsw1gWyABPj6B0AkhANjfz0kSJIrmUdn25klp%2FIwayWBBh%2BQFLhctOg0qZMj6zDbfYqLEQ2nIvdSVllpB9b2qLZ0DxKoEWr%2BqYFjs3VTyxfw%3D%3D",
+    "created_at": {
+      "$date": "2024-02-06T15:31:25.362Z"
+    }
+  }]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "65c1ad8a8a1eea5b90bcbc81"
+  },
+  "name": "Fred",
+  "email": "fred@graodireto.com.br",
+  "cpf": "38853186011",
+  "phone": "34998898545",
+  "password": "$2b$10$GU3BWOMFH1AFXNYYE/fKs.k3LZA4oWazYKmNYI0FSY9A5/.gGAuRm",
+  "auth": {
+    "email": {
+      "authenticated": true,
+      "code": ""
+    }
+  },
+  "created_at": {
+    "$date": "2024-02-06T12:48:45.804Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c22d375284100e995f5621"
+  },
+  "name": "Breno",
+  "email": "brenoqn01@gmail.com",
+  "cpf": "56723705009",
+  "phone": "34996375835",
+  "password": "$2b$10$QN2Mta6ipw5PqKo7xiaYwe3k0VTbiNKWLrJizw9irVs1NeCBGLInK",
+  "auth": {
+    "email": {
+      "authenticated": true,
+      "code": ""
+    }
+  },
+  "created_at": {
+    "$date": "2024-02-06T13:48:45.804Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c246cd7ebf1fa1d5753d1d"
+  },
+  "name": "Fabricio Lima",
+  "email": "fabriciotrab2005@gmail.com",
+  "cpf": "09883716699",
+  "phone": "34996761743",
+  "password": "$2b$10$0TE0dt3ehHVuJFcsV1YcCuCoSV1oWKGv3XMLlUGY9ucdIY0BPUCDW",
+  "auth": {
+    "email": {
+      "authenticated": true,
+      "code": ""
+    }
+  },
+  "created_at": {
+    "$date": "2024-02-06T14:48:45.804Z"
+  }
+}]
